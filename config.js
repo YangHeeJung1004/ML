@@ -14,7 +14,7 @@ const users = [
   {
     id: 0, // default author
     username: "YangHeeJung",
-    company: "weniv",
+    company: "konkuk University",
     position: "CEO",
     img: "img/user/profile-licat.png",
   },
